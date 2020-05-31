@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bottomnavigationprep 2</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="favorites_fragment">Favorites Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="video">Video</string>
+    <string name="material">Material</string>
+    <string name="gotohomefragment">Gotohomefragment</string>
+</resources>
